@@ -3,10 +3,8 @@
 A clean and minimal multi-tab Notes Management App built using modern frontend technologies.
 This app allows users to create, organize, search, archive, and manage notes efficiently — all powered by Local Storage (no backend required).
 
-🚀 Live Demo
 
-🔗 [Add your deployed link here]
-🔗 [Add your GitHub repo link here]
+🔗 https://github.com/mayankbishtmb/Notes-App
 
 ✨ Features
 
@@ -157,11 +155,3 @@ Clean component-based thinking (if React used)
 📄 License
 
 This project is open-source and available under the MIT License.
-
-👨‍💻 Author
-
-Rajat Sharma
-
-GitHub: github.com/rajatbhargavv
-
-LinkedIn: www.linkedin.com/in/rajat-sharrmaa
